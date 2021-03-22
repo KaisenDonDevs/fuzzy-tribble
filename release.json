@@ -1,0 +1,11 @@
+{
+  "assem": "KaisenDon-original",
+  "type": "Release-Validation",
+  "copyright": "(c) KaisenDon Devs",
+  "versions": [
+    {
+      "0.0.2": "アップデートしてください",
+      "0.0.3": "ok"
+    }
+  ]
+}
